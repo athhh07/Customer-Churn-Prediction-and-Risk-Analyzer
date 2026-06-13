@@ -116,15 +116,9 @@ if st.button("Predict Churn Risk", use_container_width=True):
     )
     st.progress(float(probability))
 
-<<<<<<< HEAD
+
     # RISK STATUS
   
-=======
-    # --------------------------------------------------
-    # RISK STATUS
-    # --------------------------------------------------
-
->>>>>>> 1abe0ab (Updated churn prediction model)
     if churn_percent < 30:
 
         st.success("🟢 Customer Status: Healthy")

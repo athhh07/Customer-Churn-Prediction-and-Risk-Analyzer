@@ -20,11 +20,6 @@
 
 Customer churn directly eats into revenue and growth. This project delivers a **full ML pipeline** — from raw behavioral data to a deployed, interactive prediction app — that flags at-risk customers before they leave.
 
-<<<<<<< HEAD
-> Given 112,610 customer records and 250+ features, the model achieves a **ROC-AUC of 0.856** on unseen data and surfaces actionable risk tiers for retention teams.
-=======
-> Given 112,610 customer records and 250+ features, the model achieves a **ROC-AUC of 0.901** on unseen data and surfaces actionable risk tiers for retention teams.
->>>>>>> 1abe0ab (Updated churn prediction model)
 
 ---
 
